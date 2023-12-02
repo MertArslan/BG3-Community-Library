@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription"> 
+                    <attribute id="BaseHp" type="int32" value="6"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_DeathKnight"/> 
+                    <attribute id="Description" type="TranslatedString" handle="h31dff923ged48g4a45gbc51ge9b8bfeb9a0c" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h02520a66gf730g445bgba67gfff656b4ba5d" version="1"/> 
+                    <attribute id="HpPerLevel" type="int32" value="4"/> 
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
+                    <attribute id="Name" type="FixedString" value="CL_TestClass"/> 
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/> 
+                    <attribute id="ProgressionTableUUID" type="guid" value="ce001c92-9534-4b16-b078-3a2efd091aa1"/> 
+                    <attribute id="SoundClassType" type="FixedString" value="Rogue"/> 
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="6d96ab5e-0db6-4aea-86e5-f8c591804017"/> 
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c7bdcdf2-15e7-456e-adf1-21dda3172e18"/> 
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/> 
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
